@@ -26,6 +26,5 @@ A modern and responsive clone of the Netflix homepage with sleek UI, built using
 ## 📫 Connect With Me
 
 - 🔗 [GitHub](https://github.com/dev-ahsan-naseer)
-- 🔗 [Facebook]((https://www.facebook.com/profile.php?id=61579066584752))
-- 📘 [Facebook](https://facebook.com/#)
-- 📬 Email: codewithahsan@gmail.com
+- 📘 [Facebook]((https://www.facebook.com/profile.php?id=61579066584752))
+- 📬 Email: muhammadahsannaseer1@gmail.com
