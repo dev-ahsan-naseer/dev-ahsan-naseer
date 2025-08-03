@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ahsan 👋
 
-<!--
-**dev-ahsan-naseer/dev-ahsan-naseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate Frontend Developer | UI/UX Lover | Coding My Dreams
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎧 [Spotify Clone](https://spotify-codewithahsan.netlify.app)  
+A fully responsive UI clone of the Spotify homepage using HTML, CSS & JavaScript. Clean layout, smooth styling, and deployed via Netlify.
+
+### 🎬 [Netflix Clone](https://remarkable-kheer-5e2bbe.netlify.app)  
+A modern and responsive clone of the Netflix homepage with sleek UI, built using HTML & CSS. Fully mobile friendly and deployed via Netlify.
+
+---
+
+## 💻 Skills
+
+- HTML5, CSS3, JavaScript
+- Still Learning Backend Development, DataBase Managment, Tailwind CSS
+- Git & GitHub, VS Code
+- Deployment: Netlify, GitHub Pages
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [GitHub](https://github.com/dev-ahsan-naseer)
+- 🔗 [Facebook]((https://www.facebook.com/profile.php?id=61579066584752))
+- 📘 [Facebook](https://facebook.com/#)
+- 📬 Email: codewithahsan@gmail.com
